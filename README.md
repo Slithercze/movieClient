@@ -1,1 +1,2 @@
-Fullstack application using Java Spring Boot, React, MongoDB
+Fullstack Movie review application 
+using Java Spring Boot, React, MongoDB
